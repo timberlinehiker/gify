@@ -11,8 +11,9 @@
 
 
 
+var names = ["fairy", "unicorn", "bear", "rainbow", "sequoia", "waterfall", "rey", "leia", "labyrinth",];
 
-
+// add in a selector to the gifs once populated that allows you to switch between stopped and moving links
 
 
 
